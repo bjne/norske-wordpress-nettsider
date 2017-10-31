@@ -41,6 +41,31 @@ tfik.no
 24.no
 brygga-baat.no
 ccis.no
+gbfestivalen.no
+parorendealliansen.no
+bakgaarden.no
+fireflate.no
+allsangpagrensen.no
+oremazzorene.no
+stromberg-gruppen.no
+bokogblueshuset.no
+studentersangforeningen.no
+musikkutstyrsordningen.no
+budskapet.no
+mesterbakeren.no
+sundeskumplast.no
+nnff.no
+barneombudet.no
+kirkemusikkfredrikstad.no
+tbturbuss.no
+bokogblueshuset.no
+villmarksmessa-bardu.no
+house-of-foundation.no
+fpu.no
+bjorkearkitektur.no
+reisegal.no
+risvel.no
+forsvarsforeningen.no
 
 
 #exceptions from the .no domain rule
