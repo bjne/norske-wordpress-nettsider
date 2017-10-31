@@ -42,5 +42,7 @@ tfik.no
 brygga-baat.no
 ccis.no
 
-#unntak fra hovedregel om .no domener
-thomasmoen.com 
+
+#exceptions from the .no domain rule
+thomasmoen.com
+akerbp.com
