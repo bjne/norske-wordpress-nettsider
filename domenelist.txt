@@ -1,6 +1,6 @@
 jokelfjordlaks.no
 bedrift.aftenposten.no
-Stjernblokkveien.no
+Stjerneblokkveien.no
 Dataporten.no
 gauteholmin.no
 erna.no
@@ -23,7 +23,7 @@ www.hjartholm.no/blog
 abc-byggsystem.no
 www.russen.no/RUSSENNO/
 multiconsult.no
-øg.no
+xn--g-4ga.no
 go-ju.no
 magiskecirkel.no
 stavangerstudent.no
