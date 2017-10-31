@@ -4,9 +4,7 @@ Stjernblokkveien.no
 Dataporten.no
 gauteholmin.no
 erna.no
-thomasmoen.com
 orkdalregnskapskontor.no
-lottospill.com
 skinsto.no
 tannlegefahri.no
 sportonline.no
@@ -17,7 +15,6 @@ velorbis-bikes.no
 aluminium.olbi.no
 www.xn--sexlekety-s8a.no
 bygg.olbi.no
-kalendertest.com
 kb5-14.no
 bel.no
 skoger.no
@@ -44,3 +41,6 @@ tfik.no
 24.no
 brygga-baat.no
 ccis.no
+
+#unntak fra hovedregel om .no domener
+thomasmoen.com 
