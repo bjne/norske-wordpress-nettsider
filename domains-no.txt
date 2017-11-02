@@ -51,7 +51,7 @@ stromberg-gruppen.no
 bokogblueshuset.no
 studentersangforeningen.no
 musikkutstyrsordningen.no
-budskapet.no
+budskapet.nogranstunet.no
 mesterbakeren.no
 sundeskumplast.no
 nnff.no
@@ -66,8 +66,4 @@ bjorkearkitektur.no
 reisegal.no
 risvel.no
 forsvarsforeningen.no
-
-
-#exceptions from the .no domain rule
-thomasmoen.com
-akerbp.com
+granstunet.no
