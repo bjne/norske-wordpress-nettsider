@@ -94,3 +94,8 @@ interfil.no
 d-modul.no
 sthallvard.topphandball.no
 aksena.no
+xledger.no
+kortmat.no
+xn--norskstrm-s8a.no
+storefot.no
+byasensangkor.no
